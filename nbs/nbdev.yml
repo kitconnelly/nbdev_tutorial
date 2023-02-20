@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_tutorial"
+  site-url: "https://kitconnelly.github.io/nbdev_tutorial"
+  description: "tutorial"
+  repo-branch: main
+  repo-url: "https://github.com/kitconnelly/nbdev_tutorial"
